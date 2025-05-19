@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Conda environment directories
+bin/
+lib/
+lib64/
+include/
+etc/
+share/
+conda-meta/
+ssl/
+
+# Virtual environment and metadata (if present)
+venv/
+*.egg-info/
+
+# Data and outputs
+data/
+
+# Environment/config files
+.env
+*.env
+
+# VSCode and Python project files (optional)
+.vscode/
+__pycache__/
+*.pyc
